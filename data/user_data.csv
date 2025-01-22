@@ -1,0 +1,6 @@
+user_id,login_time,location,device_id,gameplay_duration
+1,2025-01-20 10:00,New York,device_1,30
+1,2025-01-20 12:00,New York,device_1,45
+1,2025-01-21 10:00,Los Angeles,device_2,60
+2,2025-01-20 09:00,New York,device_1,20
+2,2025-01-21 14:00,Chicago,device_1,25
